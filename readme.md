@@ -8,7 +8,7 @@ Some tools may also be public available.
 
 ## License
 
-Copyright (c) Georg Schmidt 2024
+Copyright (c) Georg Schmidt 2005-2024
 
 All rights reserved
 
