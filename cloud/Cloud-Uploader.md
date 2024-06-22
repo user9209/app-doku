@@ -53,4 +53,4 @@ cloud.jar -download <source-file> [-account <account-name>] > <output-file>
 
 | Short | Long |
 | ----- | ---- |
-| CRYSTALS | Cryptographic Suite for Algebraic Lattices |
+|  |  |
