@@ -1,0 +1,26 @@
+Date: Sun, 1 Sep 2024 09:00:00 +0200
+From: "Tom Jones" <tom.jones@example.com>
+To: oerkan@example.com
+Message-ID: <0000000_1111111111@example.com>
+Subject: Hello World
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="==_mimepart_A1"
+Content-Transfer-Encoding: 7bit
+
+--==_mimepart_A1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Örkan!
+
+--==_mimepart_A1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+wie geht es dir?
+
+Grüße
+
+Tom
+
+--==_mimepart_A1--
